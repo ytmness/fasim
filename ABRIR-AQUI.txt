@@ -1,0 +1,5 @@
+Para ver el sitio:
+1. Descomprime este .zip (doble clic).
+2. Abre la carpeta FASIM-sitio y da doble clic en index.html.
+Se abre en el navegador (Chrome, Safari o Edge) con el video, las fotos y la tipografía. No necesita internet.
+Importante: index.html debe quedarse dentro de la carpeta, junto a img, fonts y video.
